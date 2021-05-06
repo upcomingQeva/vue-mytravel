@@ -1,6 +1,6 @@
 # vue-mytravel
 
-a vue poject --trvale app
+A vue poject --trvale app
 
 #run the mock server file under mock-server flod
 
