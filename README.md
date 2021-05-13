@@ -1,4 +1,4 @@
-# vue-mytravel
+# vue-mytravel ✈ 🧳 🚈 🚢 🌏
 
 A vue poject --trvale app
 
