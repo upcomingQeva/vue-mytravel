@@ -1,4 +1,4 @@
-# travel ✈
+# travel ✈ 🧳 🚈 🚢 🌏
 
 > A Vue.js project
 
